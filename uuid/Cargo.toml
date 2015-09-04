@@ -1,0 +1,7 @@
+[package]
+name = "uuid"
+version = "0.1.0"
+authors = ["Eduardo Urias <windkaiser@gmail.com>"]
+
+[dependencies]
+uuid = "0.1"
