@@ -1,0 +1,4 @@
+[package]
+name = "net-test"
+version = "0.1.0"
+authors = ["Eduardo Urias <windkaiser@gmail.com>"]
